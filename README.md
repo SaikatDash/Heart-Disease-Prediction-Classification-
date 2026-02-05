@@ -1,4 +1,4 @@
-# 🩺 Heart Disease Classification
+# 🩺 Heart Disease Prediction
 
 A machine learning project that predicts heart disease presence and severity using medical diagnostic data. This project demonstrates a complete classification workflow with multiple models, comprehensive evaluation metrics, and both automated and manual preprocessing approaches.
 
